@@ -6,6 +6,6 @@ Step 1: git pull repo
 Step 2: npm i or yarn
 Step 3: react-native run-ios 
 
-![alt text](https://raw.githubusercontent.com/maninderbawavip/test-bluecall/master/path/screenshots/1.png)
-![alt text](https://raw.githubusercontent.com/maninderbawavip/test-bluecall/master/path/screenshots/2.png)
-![alt text](https://raw.githubusercontent.com/maninderbawavip/test-bluecall/master/path/screenshots/3.png)
+![alt text](https://raw.githubusercontent.com/maninderbawavip/test-bluecall/master/screenshots/1.png)
+![alt text](https://raw.githubusercontent.com/maninderbawavip/test-bluecall/master/screenshots/2.png)
+![alt text](https://raw.githubusercontent.com/maninderbawavip/test-bluecall/master/screenshots/3.png)
